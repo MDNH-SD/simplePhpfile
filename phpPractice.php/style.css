@@ -1,0 +1,14 @@
+
+/* Style for RequestAndPostMethod.php  */
+#h2{
+    background: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 1.8in;
+}
+
+/* This stayle is used for formValidation.php */
+#star
+    {
+        color: red;
+    }
